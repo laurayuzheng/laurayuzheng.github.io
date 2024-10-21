@@ -4,13 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. 
+I am currently a 5th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. 
 I believe that designing deep learning frameworks for driving with interpretable and transferable priors in mind will ultimately lead to safer, socially-viable, and impactful policies. 
 More specifically, my research interest involves combining simulation techniques and deep learning for autonomous driving and general multi-agent interaction scenarios. 
 While this paradigm has been explored for physics-based simulation, applying it to traffic simulation is challenging since existing mathematical models of simulation describe approximations (rather than exact pathing) of human beings. 
-Previously, I interned at [Kitware](https://www.kitware.com/) under Brian Clipp and at [GESDISC, NASA Goddard SFC / ADNET Systems](https://disc.gsfc.nasa.gov/) under Arif Albayrak, William Teng, and Mohammad Khayat.
-
-Currently, I am interning at Waymo UK!
+Previously, I interned at [Waymo](https://waymo.com/) with Omar Makhlouf, [Kitware](https://www.kitware.com/) with Brian Clipp and at [GESDISC, NASA Goddard SFC / ADNET Systems](https://disc.gsfc.nasa.gov/) with Arif Albayrak, William Teng, and Mohammad Khayat.
 
 ## Education
 
