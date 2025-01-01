@@ -20,15 +20,16 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News 
-- **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉  (Blog post and camera-ready are under construction!!)
-- **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉  (Open source is coming soon!)
+- **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉 
+- **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉  
 - **[May 2024]** Began summer internship at [Waymo](https://waymo.com/) in Oxford, UK!
 - **[Mar. 2024]** I received the [Maryland Transportation Initiative Fellowship](https://mti.umd.edu/MTI-fellowship-initiative)! 🎉
 - **[Jan. 2024]** "Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering" is accepted to ICRA 2024! 🎉
-- **[Dec. 2023]** I was selected for [Outstanding GA Award](https://gradschool.umd.edu/funding/student-fellowships-awards/outstanding-graduate-assistant-awards) 2023! 🎉
+
+<!-- - **[Dec. 2023]** I was selected for [Outstanding GA Award](https://gradschool.umd.edu/funding/student-fellowships-awards/outstanding-graduate-assistant-awards) 2023! 🎉
 - **[Sep. 2023]** "Gradient-Informed PPO" is accepted to NeurIPS 2023! 🎉
 - **[May 2023]** Started internship at [Kitware Inc.](https://www.kitware.com/) in Carrboro, NC!
-- **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
+- **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉 -->
 
 {% include_relative _includes/publications.md %}
 
@@ -41,9 +42,9 @@ QUEST; CS; University Honors <br>
 <!-- - Teaching Assistant, Intro to Object Oriented Programming for [Fawzi Emad](http://www.cs.umd.edu/~fpe/), Fall 2020 -->
 
 ## Honors and Awards 
-- Selected for Outstanding Graduate Assistant Award (AY 2023-2024)
-- Selected to attend [CRA-W Grad Cohort for Women 2023](https://cra.org/cra-wp/grad-cohort-for-women/)
-- Selected as Spotlight Talk at BADUE at IROS 2022
+- Outstanding Graduate Assistant Award (AY 2023-2024)
+- Attendee @ [CRA-W Grad Cohort for Women 2023](https://cra.org/cra-wp/grad-cohort-for-women/)
+- Spotlight Talk at BADUE at IROS 2022
 - CS Summer Research Fellowship, Fall 2021
 - Grace Hopper Scholarship, Fall 2020 
 - Cornell, Maryland, Max Planck Pre-doctoral Research School, Summer 2020 [[Certificate]](./assets/docs/cmmrs_zheng.pdf)
