@@ -28,6 +28,7 @@ QUEST; CS; University Honors <br>
 - **[Jun. 2025]** Our paper on Quantifying and Modeling Driving Style in Trajectory Forecasting is accepted to IROS 2025! 🎉
 - **[May 2025]** SensAug paper has been accepted to ICML 2025! 🎉
 - **[Mar. 2025]** Passed my preliminary exam and successfully advanced to candidacy 😁
+- **[Feb. 2025]** Parallelized Differentiable Traffic Simulation paper is accepted to ICRA 2025! 🎉
 - **[Jan. 2025]** I was selected for Future Leaders in Robotics and AI seminar series! 🎉
 - **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉
 - **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉
