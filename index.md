@@ -10,6 +10,10 @@ More specifically, my research interest involves combining simulation techniques
 While this paradigm has been explored for physics-based simulation, applying it to traffic simulation is challenging since existing mathematical models of simulation describe approximations (rather than exact pathing) of human beings. 
 Previously, I interned at [Waymo](https://waymo.com/) with Omar Makhlouf, [Kitware](https://www.kitware.com/) with Brian Clipp and at [GESDISC, NASA Goddard SFC / ADNET Systems](https://disc.gsfc.nasa.gov/) with Arif Albayrak, William Teng, and Mohammad Khayat.
 
+Aside from my thesis work in autonomous driving, I am also working on projects in social virtual reality, e-sports, and public health. 
+
+I will be joining Waymo full-time in August 2025! 
+
 ## Education
 
 **Ph.D in Computer Science**, Fall 2020 - Present <br>
@@ -20,12 +24,16 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News 
-- **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉 
-- **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉  
-- **[May 2024]** Began summer internship at [Waymo](https://waymo.com/) in Oxford, UK!
+- **[Jun. 2025]** Working with REU students for this summer term. 🌻
+- **[Jun. 2025]** Our paper on Quantifying and Modeling Driving Style in Trajectory Forecasting is accepted to IROS 2025! 🎉
+- **[May 2025]** SensAug paper has been accepted to ICML 2025! 🎉
+- **[Mar. 2025]** Passed my preliminary exam and successfully advanced to candidacy 😁
+- **[Jan. 2025]** I was selected for Future Leaders in Robotics and AI seminar series! 🎉
+- **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉
+- **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉
+<!-- - **[May 2024]** Began summer internship at [Waymo](https://waymo.com/) in Oxford, UK!
 - **[Mar. 2024]** I received the [Maryland Transportation Initiative Fellowship](https://mti.umd.edu/MTI-fellowship-initiative)! 🎉
-- **[Jan. 2024]** "Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering" is accepted to ICRA 2024! 🎉
-
+- **[Jan. 2024]** "Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering" is accepted to ICRA 2024! 🎉 -->
 <!-- - **[Dec. 2023]** I was selected for [Outstanding GA Award](https://gradschool.umd.edu/funding/student-fellowships-awards/outstanding-graduate-assistant-awards) 2023! 🎉
 - **[Sep. 2023]** "Gradient-Informed PPO" is accepted to NeurIPS 2023! 🎉
 - **[May 2023]** Started internship at [Kitware Inc.](https://www.kitware.com/) in Carrboro, NC!
@@ -42,6 +50,8 @@ QUEST; CS; University Honors <br>
 <!-- - Teaching Assistant, Intro to Object Oriented Programming for [Fawzi Emad](http://www.cs.umd.edu/~fpe/), Fall 2020 -->
 
 ## Honors and Awards 
+- Selected speaker @ Future Leaders in Robotics and AI Seminar Series (Spring 2025)
+- Recipient of Maryland Transportation Initiative Fellowship (Fall 2024)
 - Outstanding Graduate Assistant Award (AY 2023-2024)
 - Attendee @ [CRA-W Grad Cohort for Women 2023](https://cra.org/cra-wp/grad-cohort-for-women/)
 - Spotlight Talk at BADUE at IROS 2022
