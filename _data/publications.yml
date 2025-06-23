@@ -6,6 +6,7 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     image: ./assets/img/sensaug.png
     pdf: https://arxiv.org/abs/2406.01425
+    code: https://github.com/laurayuzheng/SensAug
     notes: Poster
 
   - title: Quantifying and Modeling Driving Styles in Trajectory Forecasting
