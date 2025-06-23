@@ -1,7 +1,7 @@
 main:
 
   - title: Adaptive Sensitivity Analysis for Robust Augmentation against Natural Corruptions in Image Segmentation
-    authors: <strong>Laura Zheng*</strong>, Wenjie Wei, Tony Wu, Jacob Clements, Shreelekha Revankar, Andre Harrison, Yu Shen, Ming C. Lin
+    authors: <strong>Laura Zheng</strong>, Wenjie Wei, Tony Wu, Jacob Clements, Shreelekha Revankar, Andre Harrison, Yu Shen, Ming C. Lin
     conference_short: ICML '25
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     image: ./assets/img/sensaug.png
