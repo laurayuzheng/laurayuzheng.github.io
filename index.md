@@ -9,17 +9,16 @@ I believe that designing deep learning frameworks for driving with interpretable
 More specifically, my research interest involves combining simulation techniques and deep learning for autonomous driving and general multi-agent interaction scenarios. 
 While this paradigm has been explored for physics-based simulation, applying it to traffic simulation is challenging since existing mathematical models of simulation describe approximations (rather than exact pathing) of human beings. 
 Previously, I interned at [Waymo](https://waymo.com/) with Omar Makhlouf, [Kitware](https://www.kitware.com/) with Brian Clipp and at [GESDISC, NASA Goddard SFC / ADNET Systems](https://disc.gsfc.nasa.gov/) with Arif Albayrak, William Teng, and Mohammad Khayat.
-
 Aside from my thesis work in autonomous driving, I am also working on projects in social virtual reality, e-sports, and public health. 
 
-I will be joining Waymo full-time in August 2025! 
+I am currently at Waymo, as an ML engineer on the Simulation team! 🚙
 
 ## Education
 
-**Ph.D in Computer Science**, Fall 2020 - Present <br>
+**Ph.D in Computer Science**, Aug 2020 - Aug 2025 <br>
 University of Maryland, College Park <br>
 
-**B.S. in Computer Science**, Fall 2016 - Fall 2019<br>
+**B.S. in Computer Science**, Aug 2016 - Aug 2019<br>
 University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
