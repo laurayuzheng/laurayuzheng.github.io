@@ -23,6 +23,7 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News 
+- **[Aug. 2025]** I successfully defended my PhD thesis!! 🎉 
 - **[Jun. 2025]** Working with REU students for this summer term. 🌻
 - **[Jun. 2025]** Our paper on Quantifying and Modeling Driving Style in Trajectory Forecasting is accepted to IROS 2025! 🎉
 - **[May 2025]** SensAug paper has been accepted to ICML 2025! 🎉
